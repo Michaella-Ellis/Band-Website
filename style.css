@@ -3,6 +3,11 @@
   padding: 0px;
 }
 
+h1, h2, h3 {
+  font-family: 'Bebas Neue', cursive;
+}
+
+
 /* Menu Bar */
 .menubar {
   background-color: black;
